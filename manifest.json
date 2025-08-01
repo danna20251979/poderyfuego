@@ -1,0 +1,57 @@
+{
+  "name": "Radio Poder y Fuego Argentina",
+  "short_name": "La Zona 593",
+  "description": "Música del Ecuador para el mundo",
+  "icons": [
+    {
+      "src": "assets/lazona_cover.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/lazona_cover.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./?mode=pwa",
+  "theme_color": "#FFF",
+  "background_color": "#FFF", 
+  "orientation": "any", 
+  "display": "standalone", 
+  "display_override": [
+    "standalone"
+  ],
+  "lang": "es-PE", 
+  "dir": "ltr",
+  "categories": [
+    "music"
+  ],
+  "screenshots": [
+    {
+      "src": "assets/lazona_cover.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "assets/lazona_cover.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "assets/lazona593.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.corporacion.lazona",
+      "id": "com.corporacion.lazona"
+    }
+  ]
+}
